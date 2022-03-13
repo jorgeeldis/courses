@@ -1,4 +1,4 @@
-# Courses
+# Courses 📓
 
 > In this repository i'm gonna be uploading all the courses i do regarding coding to kkep track of it.
 
